@@ -1,6 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Zhang+Ziyang;Nice+to+meet+you%EF%BC%81)](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/zxyang3636/zxyang3636/main/dist/github-contribution-grid-snake.svg)
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=zxyang3636" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
 ## Hi there 👋
 
 <!--
