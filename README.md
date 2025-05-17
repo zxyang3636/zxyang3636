@@ -78,7 +78,7 @@
   <a href="你的LinkedIn链接">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="zzyang.top">
+  <a href="https://www.zzyang.top">
     <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
