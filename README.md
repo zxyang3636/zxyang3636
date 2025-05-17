@@ -3,6 +3,7 @@
 ![](https://raw.githubusercontent.com/zxyang3636/zxyang3636/main/dist/github-contribution-grid-snake.svg)
 
 ![亮色](https://raw.githubusercontent.com/zxyang3636/zxyang3636/output/github-contribution-grid-snake.svg)
+<!--  ![暗色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)  -->
 
 <div align="center">
 <span>&emsp;&emsp;</span>
