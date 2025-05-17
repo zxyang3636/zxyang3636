@@ -5,7 +5,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&width=435&lines=你好，我是张子阳;Hi+there，I+am+Zhang+Ziyang;很高兴认识你！;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-  <img src="https://raw.githubusercontent.com/zxyang3636/zxyang3636/main/dist/github-contribution-grid-snake.svg" alt="贪吃蛇" />
+  ![暗色](https://raw.githubusercontent.com/zxyang3636/zxyang3636/output/github-contribution-grid-snake-dark.svg)
   
   <br/>
   
