@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%EF%BC%81+I+am+Zhang+Ziyang;Nice+to+meet+you%EF%BC%81)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
