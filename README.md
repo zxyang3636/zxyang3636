@@ -49,14 +49,16 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nacos-0089D6?style=flat-square&logo=alibaba-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sentinel-0089D6?style=flat-square&logo=alibaba-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-分布式事务-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-分布式锁-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seata-2C3E50?style=flat-square&logo=alibaba-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Feign-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ribbon-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hystrix-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <!-- 添加更多你使用的技术 -->
 </div>
 
