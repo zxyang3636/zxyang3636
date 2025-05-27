@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  [![Redis](https://img.shields.io/badge/Redis-green?logo=redis&logoColor=white )](...)
   <img src="https://img.shields.io/badge/-Nacos-0089D6?style=flat-square&logo=alibaba-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sentinel-0089D6?style=flat-square&logo=alibaba-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-分布式事务-007396?style=flat-square&logo=java&logoColor=white" />
