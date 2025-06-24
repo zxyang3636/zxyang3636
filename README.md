@@ -11,7 +11,7 @@
   
 
   ![Top Langs](https://github-readme-stats.vercel.app/api?username=zxyang3636&layout=compact&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=compact&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=donut-vertical&theme=radical)
 
    
 
