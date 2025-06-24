@@ -14,6 +14,8 @@
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=compact&theme=radical)
 
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=zxyang3636&layout=compact&theme=radical)
+
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxyang3636&repo=vue3_admin_template)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxyang3636&repo=zzy-tech-hub)](https://github.com/anuraghazra/github-readme-stats)
