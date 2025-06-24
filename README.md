@@ -30,7 +30,7 @@
 
 ## 👨‍💻 关于我 | About Me
 - 🎓 我目前正在学习 [人工智能与Java结合]
-- 🔭 我正在从事 [微服务架构]
+- 🔭 我正在从事 [微服务架构设计开发部署]
 - 🌱 我正在探索 [云原生技术与实践]
 - 💬 向我询问关于 [高级架构设计]
 - 📫 联系我：[zxyang3636@163.com]
@@ -68,21 +68,10 @@
   <!-- 添加更多你使用的技术 -->
 </div>
 
-## 📊 本周编码时间 | Weekly Coding Stats
-<div align="center">
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  
-</div>
-
 ## 🔗 联系我 | Contact Me
 <div align="center">
   <a href="mailto:zxyang3636@163.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="你的LinkedIn链接">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.zzyang.top">
     <img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
