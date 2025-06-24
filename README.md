@@ -17,7 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxyang3636&repo=vue3_admin_template)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zxyang3636&repo=zzy-tech-hub)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zxyang3636)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&langs_count=8)
   
   <br/>
   
