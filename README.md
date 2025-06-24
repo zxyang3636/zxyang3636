@@ -11,7 +11,8 @@
   
   <!-- 统计卡片 -->
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zxyang3636&show_icons=true&theme=radical" />
-  <img height="170px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=compact&langs_count=8&theme=radical" />
+  <!-- <img height="170px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=compact&langs_count=8&theme=radical" /> -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxyang3636)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
   
