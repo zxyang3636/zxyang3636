@@ -53,8 +53,6 @@
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nacos-0089D6?style=flat-square&logo=alibaba-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sentinel-0089D6?style=flat-square&logo=alibaba-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-分布式事务-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-分布式锁-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seata-2C3E50?style=flat-square&logo=alibaba-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Feign-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ribbon-6DB33F?style=flat-square&logo=spring&logoColor=white" />
