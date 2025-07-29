@@ -78,6 +78,8 @@
   </a>
 </div>
 
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=zxyang3636)](https://github.com/zxyang3636)
+
 <div align="center">
   
   ### 访问计数 | Profile Views
