@@ -13,9 +13,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api?username=zxyang3636&layout=compact&theme=radical)
  
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxyang3636&layout=donut&theme=radical)
-   <div align="center">
-  [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=zxyang3636)](https://github.com/zxyang3636)
-   </div>
+
+    [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=zxyang3636)](https://github.com/zxyang3636)
+
    
 
   <!--
